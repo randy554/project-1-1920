@@ -18,23 +18,24 @@ This webapp should make it easier for kids to find subjects they're interested i
 ### Features
 Search for books that you want to use in your paper and bookmark these books. Bookmarked books are shown in bookmarked section with the summary and you're able to start your paper in the bookmark section.
 
-### API
+## API
 
 The [API](https://zoeken.oba.nl/api/v1/) that we used for this project is the OBA API. This API contains data about the books that you're able to borrow from the OBA.
 
-### Built with
+## Built with
 
 - Routie 
 - No frameworks are used for this project
 
-### Todo
+## Todo
 
-[x] Specific filtering of books
-[x] Bookmark/Notes page
+- [x] Specific filtering of books
+- [x] Bookmark/Notes page
 
-### Wishlist
+## Wishlist
 
-The [API](https://zoeken.oba.nl/api/v1/) that we used for this project is the OBA API. This API contains data about the books that you're able to borrow from the OBA.
+- [x] Show bookmarked books bookmark section
+- [x] Improve detailpage styling
 
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
