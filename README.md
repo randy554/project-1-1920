@@ -22,7 +22,20 @@ Search for books that you want to use in your paper and bookmark these books. Bo
 
 The [API](https://zoeken.oba.nl/api/v1/) that we used for this project is the OBA API. This API contains data about the books that you're able to borrow from the OBA.
 
-We verzamelen maandagochtend om 10.15 op de 1e verdieping van de Centrale OBA, [Oosterdokskade 143](https://www.google.com/maps/place/OBA+library+of+Amsterdam/@52.3756983,4.9082087,15z/data=!4m2!3m1!1s0x0:0x6b97f693e6ecb494?ved=2ahUKEwioo6OrzubgAhWLNOwKHR6KDQgQ_BIwCnoECAYQCA).
+### Built with
+
+- Routie 
+- No frameworks are used for this project
+
+### Todo
+
+[x] Specific filtering of books
+[x] Bookmark/Notes page
+
+### Wishlist
+
+The [API](https://zoeken.oba.nl/api/v1/) that we used for this project is the OBA API. This API contains data about the books that you're able to borrow from the OBA.
+
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
