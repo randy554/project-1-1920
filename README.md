@@ -8,6 +8,8 @@ Het project vindt plaats bij de Centrale OBA. Maandagochtend is om 10.30 uur de 
 
 [Live demo](https://heralt.github.io/project-1-1920/)
 
+![LibraryNotes app](docs/img/app.png)
+
 ### Description
 
 This webapp should make it easier for kids to find subjects they're interested in for the papers they need to write. This means filtering on specific subjects, and being able to see a short description of the books they find. If a good book is found, bookmark this book and write short notes about the books that they find.
